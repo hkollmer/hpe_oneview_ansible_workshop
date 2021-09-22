@@ -23,3 +23,4 @@ After finishing this workshop you will be ready to start using Ansible for your 
 | **Exercice 6** : This excerice automates deployment of ESXi with Ansible Tower (Controller)| [VMware ESXi Automated Deployment](./exercises/vmware_install.md)
 | **Bonus Exercice 7** : Learn how to create a workflow template in Ansible Tower (Controller)| [Create an overall Workflow](./exercises/workflow.md)
 
+Test
